@@ -1,6 +1,6 @@
 # Jessica DeLozier — Professional Portfolio
 
-Technical product, program, and data platform leadership.
+Technical Product, Program, and Data Platform Leadership.
 
 Live site: https://jkdelozier.github.io/chatGPT.ProfessionalPortfolio/
 
